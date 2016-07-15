@@ -30,11 +30,8 @@ h1 {
   
   margin: 40px auto;
   padding: 20px 20px 9px;
-  
-  background: #9dd2ea;
-  background: linear-gradient(#9dd2ea, #8bceec);
+  background: #66ccff;
   border-radius: 3px;
-  box-shadow: 0px 4px #009de4, 0px 10px 15px rgba(0, 0, 0, 0.2);
 }
 
 /* Top portion */
@@ -98,7 +95,7 @@ h1 {
 /* Remove right margins from operator keys */
 /* style different type of keys (operators/evaluate/clear) differently */
 .keys span.operator {
-  background: #FFF0F5;
+  background: #ffe6ff;
   margin-right: 0;
 }
 
